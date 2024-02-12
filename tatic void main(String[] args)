@@ -1,0 +1,17 @@
+[33mcommit dbc52f8c9b374696b62971fcf990a860536bf3c0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Kankipati Vakdevi <vakdevikankipati@gmail.com>
+Date:   Mon Feb 12 12:01:04 2024 +0530
+
+    Added a print statement
+
+[33mcommit 1d782d9f5527d985b7609ca2a245879abc200de8[m
+Author: Kankipati Vakdevi <vakdevikankipati@gmail.com>
+Date:   Mon Feb 12 11:58:11 2024 +0530
+
+    Added calculator support
+
+[33mcommit b98e7ae480a9ad42a1b5a5939a216232e14e294f[m
+Author: Kankipati Vakdevi <vakdevikankipati@gmail.com>
+Date:   Mon Feb 12 11:50:11 2024 +0530
+
+    fixed bug
