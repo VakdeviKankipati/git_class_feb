@@ -1,4 +1,4 @@
-public class{
+public class V{
   public static void main(String[] args){
     System.out.println("Welcome to V");
   }
